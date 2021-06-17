@@ -1,9 +1,9 @@
 # Pictures
 
 We have a franchise of shops of iligal paintings, that simulates it sells white necklaces, as the shop's name.
-This franchise has several shops, each one with a name and a maxim capacity of paintings(or necklaces).
+This franchise has several shops, each one with a name and a maxim capacity of paintings (or necklaces).
 
-There are paintings that have author's name, others are anonimous, but all have name, price and entry date(the 
+There are paintings that have author's name, others are anonimous, but all have name, price and entry date (the 
 date of the moment the painting cames in the shop).
 
 The client wants to implement an API with Spring with the followinf functionalities:
